@@ -65,8 +65,8 @@
     Pour spécifier un guillemet simple littéral, il doit être échappé à l'aide
     d'un antislash (<literal>\</literal>). Pour spécifier un antislash littéral,
     doublez-le (<literal>\\</literal>).
-    Toute les autres instances d'antislash seront traitées comme un antislash
-    littéral : ce qui signifie que les autres séquences auquelles vous
+    Toutes les autres instances d'antislash seront traitées comme un antislash
+    littéral : ce qui signifie que les autres séquences auxquelles vous
     êtes éventuellement habitués (comme <literal>\r</literal> ou <literal>\n</literal>)
     s'afficheront telles quelles, sans avoir une quelconque signification particulière.
    </para>
